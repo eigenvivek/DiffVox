@@ -1,0 +1,7 @@
+torch>=2.2
+diffdrr
+wandb
+monai
+torchmetrics
+torchvision
+tqdm

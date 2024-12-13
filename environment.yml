@@ -1,0 +1,20 @@
+name: diffvox
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - pip
+  - pytorch>=2.2
+  - torchvision
+  - torchmetrics
+  - numpy
+  - imageio
+  - monai
+  - wandb
+  - tqdm
+  - astra-toolbox
+  - submitit
+  - click
+  - nibabel
+  - kornia
