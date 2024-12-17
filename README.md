@@ -12,9 +12,10 @@ To install the latest release use [Conda](https://docs.conda.io/en/latest/minico
 
 ```bash
 git clone https://github.com/hossein-momeni/DiffVox.git
+cd DiffVox
 conda env create -f environment.yml
 conda activate diffvox
-pip install diffvox
+pip install .
 ```
 
 ## Prepare the Dataset
