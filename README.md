@@ -133,7 +133,7 @@ By defining these attributes, you ensure that your dataset is compatible with Di
 
 ## Citing `DiffVox`
 
-If you find DiffVox useful in your work, please cite our [paper](https://arxiv.org/abs/2411.19224v2):
+If you find DiffVox useful in your work, please cite our [paper](https://arxiv.org/abs/2411.19224):
 
     @article{momeni2024voxel,
       title={Differentiable Voxel-based X-ray Rendering Improves Sparse-View 3D CBCT Reconstruction},
