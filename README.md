@@ -26,7 +26,7 @@ pip install zenodo_get
 cd data
 ./data.sh
 ```
-**Note**: This dataset is sourced from the study ["A cone-beam X-ray computed tomography data collection designed for machine learning"](https://www.nature.com/articles/s41597-019-0235-y). It comprises 48 walnuts, each with approximately 3,600 high-resolution X-ray projections. The download requires around 300 GB of storage and may take approximately 10 hours, depending on your internet speed.
+**Note**: This dataset is sourced from the study ["A cone-beam X-ray computed tomography data collection designed for machine learning"](https://www.nature.com/articles/s41597-019-0235-y). It comprises 42 walnuts, each with approximately 3,600 high-resolution X-ray projections. The download requires around 300 GB of storage and may take approximately 10 hours, depending on your internet speed.
 
 
 After downloading the dataset you can reconstruct the ground truth volumes using [`slurm`](https://slurm.schedmd.com/):
